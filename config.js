@@ -53,12 +53,12 @@ global.websitex = "https://www.instagram.com/invites/contact/?i=18n050noxcaqr&ut
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Pratama-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Pratama-ᴍᴅ᭄"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.themeemoji = "🗿"
+global.reactmoji = "🤖"
 global.ownertag = ['6281273677810'] //ur owner tag
 global.ownernummenu = ['6281273677810'] //ur owner number in menu and all
 global.watermark = "Pratama-ᴍᴅ᭄." //ur watermark
-global.botscript = ""
+global.botscript = "https://github.com/panda560/CheemsBot-MD3/blob/master/config.js"
 global.linkz1 = ""
 global.linkz2 = ""
 
